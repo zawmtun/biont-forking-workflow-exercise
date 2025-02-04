@@ -6,4 +6,8 @@
 - 1 salmon fillet
 - 1 avocado
 
-## TODO: Add tutorial
+## Instructions
+1. Slice the fillet and avocado
+2. Cook the rice for 10 minutes
+3. Prepare the sushi
+4. Enjoy
